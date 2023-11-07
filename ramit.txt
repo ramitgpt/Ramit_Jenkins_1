@@ -1,1 +1,2 @@
 This is the first line in my file.
+Adding new line.
